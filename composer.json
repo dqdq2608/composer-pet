@@ -1,0 +1,17 @@
+{
+  "name": "quan/composer-pet",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dqdq",
+      "email": "quandong2608@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2"
+  }
+}
